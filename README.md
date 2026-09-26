@@ -1,4 +1,4 @@
-# 📧 Email Extractor using Python
+# Email Extractor using Python
 
 A simple Python automation project that reads a text file, identifies email addresses from its content, and saves the extracted email addresses into a separate output file.
 
@@ -6,7 +6,7 @@ This project was developed as part of my **CodeAlpha Python Programming Internsh
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 While working with text files, manually searching for email addresses can become repetitive, especially when the file contains a large amount of text.
 
@@ -25,7 +25,7 @@ The project is intentionally kept simple so that the core Python concepts behind
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The main objective of this project is to practice using Python for a practical file-processing task.
 
@@ -41,7 +41,7 @@ Through this project, I worked with:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Regular Expressions (`re` module)**
@@ -51,7 +51,7 @@ No external libraries are required.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 CodeAlpha_EmailExtractor/
